@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84ef8652-2e1d-4a7f-b87a-68486f1cb99b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/web/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/app/app.module.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web" />
+  </component>
+  <component name="ProjectId" id="1ZLxDg68M9FmLIGKacsIT9eaa3b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/web/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="E2E Tests (web)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/web/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84ef8652-2e1d-4a7f-b87a-68486f1cb99b" name="Default Changelist" comment="" />
+      <created>1584632057198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584632057198</updated>
+      <workItem from="1584632061793" duration="9033000" />
+      <workItem from="1584693608656" duration="2414000" />
+      <workItem from="1584777429143" duration="1443000" />
+      <workItem from="1584808550672" duration="1559000" />
+      <workItem from="1584810155122" duration="1776000" />
+      <workItem from="1584811977102" duration="1783000" />
+      <workItem from="1584813797267" duration="1787000" />
+      <workItem from="1584815653642" duration="1668000" />
+      <workItem from="1584818393971" duration="1985000" />
+      <workItem from="1584820422020" duration="1787000" />
+      <workItem from="1584822264300" duration="1796000" />
+      <workItem from="1584824117589" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1584632737183">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="311" width="424" height="491" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1584632737183" />
+    <state x="647" y="150" width="683" height="813" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584638110245">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="647" y="150" width="683" height="813" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1584638110245" />
+  </component>
+</project>
